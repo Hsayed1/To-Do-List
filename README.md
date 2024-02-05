@@ -17,7 +17,8 @@ To-do list created using React, Typescript, and Material UI
 - Users can select an existing todo as a template for creating a new todo item. (Logic behind forking a to-do not implemented yet)
 
  
-
+### Total Work Time
+- 4 hrs 34 min
 
 # Getting Started with Create React App
 
