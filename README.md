@@ -1,3 +1,24 @@
+# Description
+To-do list created using React, Typescript, and Material UI
+
+## Implemented Features
+- View all todos
+- Create new todos
+- Update the status and title of todos that have already been created
+- Delete todos
+- Search their list of todos by title
+- Filter todos by status
+- Users can drag and drop todos to reorder them
+- Filter todos by status
+- Persist data in local storage to maintain it across refreshes
+
+## In Progress Features
+- When creating a todo, the user can upload an image to display with the todo. (Images are being saved but not displayed currently)
+- Users can select an existing todo as a template for creating a new todo item. (Logic behind forking a to-do not implemented yet)
+
+ 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
