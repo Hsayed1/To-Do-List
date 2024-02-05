@@ -59,7 +59,7 @@ const TodoForm: React.FC<TodoFormProps> = ({ addItem }) => {
               value={text}
               onChange={(e) => setText(e.target.value)}
             />
-            {/* File input for image */}
+            {/* File input for a image */}
             <Input
               type="file"
               inputProps={{
