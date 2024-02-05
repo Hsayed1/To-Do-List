@@ -1,0 +1,37 @@
+/* ListItem.css */
+
+.listItemContainer {
+    margin-top: 40px;
+  }
+  
+  .cardContainer {
+    background: Lightgray;
+  }
+  
+  .textDecorationLineThrough {
+    text-decoration: line-through;
+  }
+  
+  .textDecorationNone {
+    text-decoration: none;
+  }
+  
+  .editButton {
+    color: black;
+    float: right;
+  }
+  
+  .deleteButton {
+    color: red;
+    float: right;
+  }
+  
+  .saveButton {
+    margin-top: 20px;
+  }
+
+  .templateButton {
+    margin-top: 20px;
+    float: right;
+  }
+  

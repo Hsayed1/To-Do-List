@@ -1,0 +1,14 @@
+/* TodoForm.css */
+
+.formContainer {
+    max-width: 500px;
+  }
+  
+  .textField {
+    margin-bottom: 10px;
+  }
+  
+  .submitButton {
+    margin-top: 8px;
+  }
+  
